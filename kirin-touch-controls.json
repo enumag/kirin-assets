@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "scale": 100,
+  "opacity": 80,
+  "diagonalMovement": false,
+  "rightGrid": {
+    "slots": [
+      138,
+      40,
+      null,
+      133,
+      36,
+      null,
+      null,
+      null,
+      null,
+      29,
+      47,
+      32,
+      54,
+      52,
+      66
+    ],
+    "bgColors": [
+      -1,
+      -1,
+      null,
+      -1,
+      -1,
+      null,
+      null,
+      null,
+      null,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -10257240
+    ],
+    "textColors": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      -1
+    ]
+  },
+  "leftGrid": {
+    "slots": [
+      48,
+      41,
+      142,
+      45,
+      51,
+      141
+    ],
+    "bgColors": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "textColors": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}
