@@ -1,0 +1,113 @@
+{
+  "$schema": "https:\/\/raw.githubusercontent.com\/mateo-m\/empo-app\/main\/docs\/schemas\/empo-controls.v1.schema.json",
+  "version": 1,
+  "kirinFreeEnabled": false,
+  "touch": {
+    "portrait": {
+      "dpad": {
+        "x": 0.206078,
+        "y": 0.62,
+        "size": 140,
+        "opacity": 1
+      },
+      "buttons": [
+        {
+          "key": "Escape",
+          "x": 0.88974,
+          "y": 0.507,
+          "size": 40,
+          "opacity": 1
+        },
+        {
+          "key": "KeyS",
+          "x": 0.75135,
+          "y": 0.504951,
+          "size": 40,
+          "opacity": 1
+        },
+        {
+          "key": "KeyX",
+          "x": 0.609092,
+          "y": 0.534993,
+          "size": 54,
+          "opacity": 1
+        },
+        {
+          "key": "KeyZ",
+          "x": 0.539343,
+          "y": 0.608835,
+          "size": 54,
+          "opacity": 1
+        },
+        {
+          "key": "Enter",
+          "x": 0.812636,
+          "y": 0.62,
+          "size": 100,
+          "opacity": 1
+        },
+        {
+          "key": "AltLeft",
+          "x": 0.082331,
+          "y": 0.497279,
+          "size": 40,
+          "opacity": 1
+        }
+      ],
+      "actionButtons": []
+    },
+    "landscape": {
+      "dpad": {
+        "x": 0.155,
+        "y": 0.77,
+        "size": 140,
+        "opacity": 1
+      },
+      "buttons": [
+        {
+          "key": "Escape",
+          "x": 0.917,
+          "y": 0.554,
+          "size": 40,
+          "opacity": 1
+        },
+        {
+          "key": "KeyX",
+          "x": 0.782,
+          "y": 0.662,
+          "size": 54,
+          "opacity": 1
+        },
+        {
+          "key": "Enter",
+          "x": 0.885,
+          "y": 0.815,
+          "size": 100,
+          "opacity": 1
+        },
+        {
+          "key": "KeyZ",
+          "x": 0.761,
+          "y": 0.815,
+          "size": 54,
+          "opacity": 1
+        },
+        {
+          "key": "KeyS",
+          "x": 0.842,
+          "y": 0.562,
+          "size": 40,
+          "opacity": 1
+        },
+        {
+          "key": "AltLeft",
+          "x": 0.079,
+          "y": 0.553,
+          "size": 40,
+          "opacity": 1
+        }
+      ],
+      "actionButtons": []
+    }
+  }
+}
