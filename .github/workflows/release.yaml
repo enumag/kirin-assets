@@ -15,7 +15,7 @@ jobs:
 
       - name: Zip Folder
         run: |
-          zip -r kirin.zip Game.exe .nomedia kirin-touch-controls.json
+          zip -r kirin.zip Game.exe .nomedia controls.json kirin-touch-controls.json kirin-controller.json
 
       - name: Release
         uses: softprops/action-gh-release@v3
